@@ -9,7 +9,11 @@ A student who is obsessed in system, AI, game designing. </div>
 ## Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-
+- [Build Android Kernel for Pixel 9 Pro XL](https://moeleak.github.io/2025/02/15/Build-Android-Kernel-for-Pixel-9-Pro-XL/)
+- [一月的书影音](https://moeleak.github.io/2025/02/09/%E4%B8%80%E6%9C%88%E7%9A%84%E4%B9%A6%E5%BD%B1%E9%9F%B3/)
+- [提取U校园视音频文件](https://moeleak.github.io/2025/01/13/%E6%8F%90%E5%8F%96U%E6%A0%A1%E5%9B%AD%E8%A7%86%E9%9F%B3%E9%A2%91%E6%96%87%E4%BB%B6/)
+- [记梦](https://moeleak.github.io/2025/01/08/%E8%AE%B0%E6%A2%A6/)
+- [2024 年度总结](https://moeleak.github.io/2024/12/31/2024-%E5%B9%B4%E5%BA%A6%E6%80%BB%E7%BB%93/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Recent Activity
