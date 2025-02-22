@@ -15,4 +15,4 @@ A student who is obsessed in system, AI, game designing. </div>
 ## Recent Activity
 <!--START_SECTION:activity-->
 
-<!--END_SECTION:activity-->
+
