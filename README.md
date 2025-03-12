@@ -1,9 +1,8 @@
 ![76868567_p0_master1200.jpg](https://s2.loli.net/2025/02/22/rEfIDjx7qOXwJC5.jpg)
 
-### <div align="center">
+### <div align="center"> <👀>I'm MoeLeak</>
 
-![](https://visitor-badge.laobi.icu/badge?page_id=MoeLeak.moeleak)
-### <👀>I'm MoeLeak</>
+![](https://visitor-badge.laobi.icu/badge?page_id=MoeLeak.visitor-badge)
 
 A student who is obsessed in system, AI, game designing. </div>
 
