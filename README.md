@@ -9,9 +9,7 @@
 A student who is obsessed in OS, AI, game designing & hacking<br>
 
 You can find me on Mastondon easily. And if you want to know more about me you can visit my [blog](https://leak.moe).
-
 </div>
-
 <br/>
 
 ## Recent Blog Posts
