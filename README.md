@@ -4,6 +4,7 @@
 
 A student who is obsessed in system, AI, game designing. </div>
 
+
 <br/>
 
 ## Recent Blog Posts
@@ -12,7 +13,7 @@ A student who is obsessed in system, AI, game designing. </div>
 
 <!-- BLOG-POST-LIST:END -->
 
-## Recent Activity
-<!--START_SECTION:activity-->
 
+## Contribution
+![](https://raw.githubusercontent.com/MoeLeak/moeleak/output/github-contribution-grid-snake.svg)
 
