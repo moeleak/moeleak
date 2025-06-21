@@ -13,11 +13,11 @@ You can find me on Mastondon easily. And if you want to know more about me you c
 ## Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [二五年六月](https://leak.moe/2025/06/14/%E4%BA%8C%E4%BA%94%E5%B9%B4%E5%85%AD%E6%9C%88/)
 - [Windows 下的HHKB+Vim+Mac-Like键位配置](https://leak.moe/2025/06/03/Windows-%E4%B8%8B%E7%9A%84HHKB-Vim-Mac-Like%E9%94%AE%E4%BD%8D%E9%85%8D%E7%BD%AE/)
 - [二五年五月](https://leak.moe/2025/05/02/%E4%BA%8C%E4%BA%94%E5%B9%B4%E4%BA%94%E6%9C%88/)
 - [二五年三四月](https://leak.moe/2025/04/13/%E4%BA%8C%E4%BA%94%E5%B9%B4%E4%B8%89%E5%9B%9B%E6%9C%88/)
 - [Pixelbook Go 使用体验](https://leak.moe/2025/04/08/Pixelbook-Go-%E4%BD%BF%E7%94%A8%E4%BD%93%E9%AA%8C/)
-- [Build Android Kernel for Pixel 9 Pro XL](https://leak.moe/2025/02/15/Build-Android-Kernel-for-Pixel-9-Pro-XL/)
 <!-- BLOG-POST-LIST:END -->
 
 
