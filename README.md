@@ -13,11 +13,11 @@ You can find me on Mastondon easily. And if you want to know more about me you c
 ## Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [终极密码管理方案](https://leak.moe/2026/01/13/%E7%BB%88%E6%9E%81%E5%AF%86%E7%A0%81%E7%AE%A1%E7%90%86%E6%96%B9%E6%A1%88/)
 - [做饭日记](https://leak.moe/2025/12/22/%E5%81%9A%E9%A5%AD%E6%97%A5%E8%AE%B0/)
 - [二五年十一月](https://leak.moe/2025/11/04/%E4%BA%8C%E4%BA%94%E5%B9%B4%E5%8D%81%E4%B8%80%E6%9C%88/)
 - [二五年十月](https://leak.moe/2025/10/09/%E4%BA%8C%E4%BA%94%E5%B9%B4%E5%8D%81%E6%9C%88/)
 - [GalGame 开发日志](https://leak.moe/2025/08/07/GalGame-%E5%BC%80%E5%8F%91%E6%97%A5%E5%BF%97/)
-- [二五年八月](https://leak.moe/2025/08/01/%E4%BA%8C%E4%BA%94%E5%B9%B4%E5%85%AB%E6%9C%88/)
 <!-- BLOG-POST-LIST:END -->
 
 
